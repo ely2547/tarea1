@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "fecha planificada para el mantenimiento" : "2020-2-27T18:51:33.419Z",
+      "fecha de inicio del mantenimiento": "2020-12-27T18:51:33.419Z",
+      "fecha final del mantenimiento": "2021-20-27T18:51:33.419Z",
+      "estatus del mantenimiento" : "terminado"
+      
+    },
+    {
+        "id": 2,
+        "fecha_planificada_para_el_mantenimiento" : "2020-2-27T18:51:33.419Z",
+        "fecha_de_inicio_del_mantenimiento": "2020-12-27T18:51:33.419Z",
+        "fecha_final_del_mantenimiento": "2021-20-27T18:51:33.419Z",
+        "estatus_del_mantenimiento" : "terminado"
+        
+      }
+    
+    
+  ]

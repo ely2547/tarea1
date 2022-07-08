@@ -1,0 +1,21 @@
+[
+    {
+      "nombre" : "laptop dell",
+      "descripcion" : "procesador intel core i7",
+      "serial" : "133547",
+      "fecha_inicial_de_puesta_en_marcha": "2020-12-27T18:51:33.419Z",
+      "ultima_fecha_de_puesta_en_marcha": "2021-20-27T18:51:33.419Z",
+      "ultima_fecha_de_mantenimiento": "2021-19-27T18:51:33.419Z",
+      "id": 1 
+    },
+    {
+        "nombre" : "laptop acer",
+        "descripcion" : "procesador intel core i5",
+        "serial" : "133546",
+        "fecha_inicial_de_puesta_en_marcha": "2020-10-27T18:51:33.419Z",
+        "ultima_fecha_de_puesta_en_marcha": "2021-11-27T18:51:33.419Z",
+        "ultima_fecha_de_mantenimiento": "2021-10-27T18:51:33.419Z",
+        "id": 2 
+    }
+    
+  ]
